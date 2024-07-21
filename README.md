@@ -1,1 +1,19 @@
 # blueroad
+영덕 블루로드체
+
+<pre>
+@font-face {
+    font-family: "blueroad";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/blueroad/blueroad.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/blueroad/blueroad.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/blueroad/blueroad.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/blueroad/blueroad.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/blueroad/blueroad.ttf") format("truetype");
+    font-display: swap;
+} 
+.blueroad {
+    font-family: "blueroad";
+}
+</pre>
